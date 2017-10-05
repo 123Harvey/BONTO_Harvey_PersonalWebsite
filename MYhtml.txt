@@ -1,6 +1,0 @@
-<html style="color:mediumblue">>
-<body style="color:red"> bgcolor="color:mediumblue">="#E6E6FA"="color:mediumblue">>
-<h1 style="color:mediumblue">>Hello world!</h1 style="color:mediumblue">>
-<p style="color:mediumblue">><a style="color:red"> href="color:mediumblue">="https://www.w3schools.com"="color:mediumblue">>Visit W3Schools.com!</a style="color:mediumblue">></p style="color:mediumblue">>
-</body style="color:mediumblue">>
-</html style="color:mediumblue">>
